@@ -1,4 +1,4 @@
-<h1> Hello, I am Ajay Chamedia </h1>
+<h1><i><u> Hello, I am Ajay Chamedia </u></i></h1>
 
 - 👀 I’m interested in Playing & learning new skills.
 - 🌱 I’m currently pursuing Engineering.
